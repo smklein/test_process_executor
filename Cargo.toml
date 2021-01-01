@@ -3,6 +3,7 @@ name = "test_process_executor"
 version = "0.1.0"
 authors = ["Sean Klein <seanmarionklein@gmail.com>"]
 description = "Test utility for process launching"
+repository = "https://github.com/smklein/test_process_executor"
 license = "MIT"
 edition = "2018"
 
